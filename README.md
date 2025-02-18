@@ -2,19 +2,6 @@
 
 Welcome to the **COVID-19 Data Exploration** repository! This repository contains SQL-based data analysis projects focused on exploring and deriving insights from COVID-19-related datasets. The goal is to uncover trends, patterns, and key statistics regarding the pandemic.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Data Source](#data-source)
-- [SQL Queries](#sql-queries)
-- [Results and Insights](#results-and-insights)
-- [How to Use](#how-to-use)
-- [Technologies Used](#technologies-used)
-- [License](#license)
-
----
-
 ## Overview
 
 This project explores COVID-19 data through structured queries and analysis to:
@@ -65,18 +52,6 @@ The key insights derived include:
 - Global trends in COVID-19 cases, deaths, and recoveries.
 - Identification of high-risk regions and periods.
 - Impact of vaccination campaigns on case reduction.
-
-Refer to the results folder or visualization tools for detailed output.
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/varunpravesh/Covid-Data-Exploration.git
-   ```
-2. Import the provided datasets into your SQL database.
-3. Execute the SQL scripts in the specified order.
-4. (Optional) Export query results to integrate with visualization tools like Power BI or Tableau.
 
 ## Technologies Used
 
