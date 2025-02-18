@@ -19,6 +19,8 @@ The data used in this project is sourced from publicly available COVID-19 datase
 
 ## Results and Insights
 
+![](page1.png)
+
 ### Mortality and Infections Rates
 - COVID-19 had a 2.11% fatality rate, with 150.57M cases and 3.18M deaths, highlighting the global severity of the pandemic.
 - Countries like Yemen and Sudan had high mortality rates, likely due to weaker healthcare systems. Mexico's high rate (9.25%) suggests challenges in early case detection and treatment.
